@@ -1,5 +1,7 @@
 # contenteditable-poc
 
+Demo: [link](https://input-with-tags.web.app)
+
 ## Project setup
 ```
 yarn install
